@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "promptDelete": false
+}
