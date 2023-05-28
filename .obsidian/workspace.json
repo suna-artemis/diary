@@ -19,85 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98e574042fd73431",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/suna/note/daily-note/",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/nix/store/k52s0fcm71pz8ijh6drj0gh00dj8hy0w-user-environment/bin/zsh",
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 208,
-                    "data": "\u001b[34m❯ \u001b[181C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[34m❯ \u001b[181C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[34m❯ \u001b[181C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[34m❯ \u001b[181C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0m * 已还原于Sun May 28 2023 18:30:57 GMT+0800 (China Standard Time)的历史\r\n\r\n\u001b[34m❯ \u001b[0mgit      \u001b[172C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0madd                -- add file contents to index\r\nam                 -- apply patches from a mailbox\r\napply              -- apply patch to files and/or to index\r\narchimport         -- import an Arch repository into git\r\narchive            -- create archive of files from named tree\r\nbisect             -- find, by binary search, change that introduced a bug\r\nblame              -- show what revision and author last modified each line of a file\r\nbranch             -- list, create, or delete branches\r\nbugreport          -- collect information for user to file a bug report\r\nbundle             -- move objects and refs by archive\r\ncat-file           -- provide content or type information for repository objects\r\ncheck-attr         -- display gitattributes information\r\ncheck-ignore       -- debug gitignore/exclude files\r\ncheck-mailmap      -- show canonical names and email addresses of contacts\r\ncheckout           -- checkout branch or paths to working tree\r\ncheckout-index     -- copy files from index to working directory\r\ncheck-ref-format   -- ensure that a reference name is well formed\r\ncherry             -- find commits not merged upstream\r\ncherry-pick        -- apply changes introduced by some existing commits\r\ncitool             -- graphical alternative to git commit\r\nclean              -- remove untracked files from working tree\r\nclone              -- clone repository into new directory\r\ncolumn             -- display data in columns\r\ncommit-graph       -- write and verify Git commit-graph files\r\ncommit             -- record changes to repository\r\ncommit-tree        -- create new commit object\r\nconfig             -- get and set repository or global options\r\ncount-objects      -- count unpacked objects and display their disk consumption\r\ncvsexportcommit    -- export a single commit to a CVS checkout\r\ncvsimport          -- import a CVS \"repository\" into a git repository\r\ncvsserver          -- run a CVS server emulator for git\r\ndaemon             -- run a really simple server for git repositories\r\ndescribe           -- show most recent tag that is reachable from a commit\r\ndiff-files         -- compare files in working tree and index\r\ndiff-index         -- compare content and mode of blobs between index and repository\r\ndiff               -- show changes between commits, commit and working tree, etc.\r\ndifftool           -- show changes using common diff tools\r\ndiff-tree          -- compare content and mode of blobs found via two tree objects\r\nfast-export        -- data exporter\r\nfast-import        -- import information into git directly\r\nfetch              -- download objects and refs from another repository\r\nfetch-pack         -- receive missing objects from another repository\r\nfilter-branch      -- rewrite branches\r\nfmt-merge-msg      -- produce merge commit message\r\nfor-each-ref       -- output information on each ref\r\nfor-each-repo      -- run a git command on a list of repositories\r\nformat-patch       -- prepare patches for e-mail submission\r\nfsck               -- verify connectivity and validity of objects in database\r\ngc                 -- cleanup unnecessary files and optimize local repository\r\nget-tar-commit-id  -- extract commit ID from an archive created using git archive\r\ngrep               -- print lines matching a pattern\r\ngui                -- run portable graphical interface to git\r\nhash-object        -- compute object ID and optionally create a blob from a file\r\nhelp               -- display help information about git\r\nhttp-backend       -- run a server side implementation of Git over HTTP\r\nhttp-fetch         -- download from remote git repository via HTTP\r\nhttp-push          -- push objects over HTTP/DAV to another repository\r\nimap-send          -- send a collection of patches to an IMAP folder\r\nindex-pack         -- build pack index file for an existing packed archive\r\ninit               -- create empty git repository or re-initialize an existing one\r\ninstaweb           -- instantly browse your working repository in gitweb\r\ninterpret-trailers -- add or parse structured information in commit messages\r\nlog                -- show commit logs\r\nls-files           -- information about files in index/working directory\r\nls-remote          -- show references in a remote repository\r\nls-tree            -- list contents of a tree object\r\nmailinfo           -- extract patch and authorship from a single email message\r\nmailsplit          -- split mbox file into a list of files\r\nmaintenance        -- run tasks to optimize Git repository data\r\nmerge-base         -- find as good a common ancestor as possible for a merge\r\nmerge-file         -- run a three-way file merge\r\nmerge-index        -- run merge for files needing merging\r\nmerge              -- join two or more development histories together\r\nmerge-one-file     -- standard helper-program to use with git merge-index\r\nmergetool          -- run merge conflict resolution tools to resolve merge conflicts\r\nmerge-tree         -- show three-way merge without touching index\r\nmktag              -- create tag object with extra validation\r\nmktree             -- build tree-object from git ls-tree formatted text\r\nmulti-pack-index   -- write and verify multi-pack-indexes\r\nmv                 -- move or rename file, directory, or symlink\r\nname-rev           -- find symbolic names for given revisions\r\nnotes              -- add or inspect object notes\r\npack-objects       -- create packed archive of objects\r\npack-redundant     -- find redundant pack files\r\npack-refs          -- pack heads and tags for efficient repository access\r\nparse-remote       -- routines to help parsing remote repository access parameters\r\npatch-id           -- compute unique ID for a patch\r\nprune-packed       -- remove extra objects that are already in pack files\r\nprune              -- prune all unreachable objects from the object database\r\npull               -- fetch from and merge with another repository or local branch\r\npush               -- update remote refs along with associated objects\r\nquiltimport        -- apply a quilt patchset\r\nrange-diff         -- compare two commit ranges\r\nread-tree          -- read tree information into directory index\r\nrebase             -- forward-port local commits to the updated upstream head\r\nreceive-pack       -- receive what is pushed into repository\r\nreflog             -- manage reflog information\r\nremote             -- manage set of tracked repositories\r\nrepack             -- pack unpacked objects in a repository\r\nreplace            -- create, list, delete refs to replace objects\r\nrequest-pull       -- generate summary of pending changes\r\nrerere             -- reuse recorded resolution of conflicted merges\r\nreset              -- reset current HEAD to specified state\r\nrestore            -- restore working tree files\r\nrevert             -- revert existing commits\r\nrev-list           -- list commit object in reverse chronological order\r\nrev-parse          -- pick out and massage parameters for other git commands\r\nrm                 -- remove files from the working tree and from the index\r\nsend-email         -- send collection of patches as emails\r\nsend-pack          -- push objects over git protocol to another repository\r\nshell              -- restricted login shell for GIT-only SSH access\r\nshortlog           -- summarize git log output\r\nshow-branch        -- show branches and their commits\r\nshow-index         -- show packed archive index\r\nshow-ref           -- list references in a local repository\r\nshow               -- show various types of objects\r\nsparse-checkout    -- initialize and modify the sparse-checkout\r\nstash              -- stash away changes to dirty working directory\r\nstatus             -- show working-tree status\r\nstripspace         -- filter out empty lines\r\nsubmodule          -- initialize, update, or inspect submodules\r\nsubtree            -- split repository into subtrees and merge them\r\nsvn                -- bidirectional operation between a Subversion repository and git\r\nswitch             -- switch branches\r\nsymbolic-ref       -- read and modify symbolic references\r\ntag                -- create, list, delete or verify tag object signed with GPG\r\nunpack-file        -- create temporary file with blob's contents\r\nunpack-objects     -- unpack objects from packed archive\r\nupdate-index       -- register file contents in the working directory to the index\r\nupdate-ref         -- update object name stored in a reference safely\r\nupdate-server-info -- update auxiliary information file to help dumb servers\r\nupload-archive     -- send archive back to git-archive\r\nupload-pack        -- send objects packed back to git fetch-pack\r\nvar                -- show git logical variable\r\nverify-commit      -- check GPG signature of commits\r\nverify-pack        -- validate packed git archive files\r\nverify-tag         -- check GPG signature of tags\r\nversion            -- show git version\r\nwhatchanged        -- show commit-logs and differences they introduce\r\nworktree           -- manage multiple working dirs attached to the same repository\r\nwrite-tree         -- create tree from the current index\r\n\u001b[34m❯ \u001b[0mgit s\u001b[176C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0msend-email      -- send collection of patches as emails\r\nsend-pack       -- push objects over git protocol to another repository\r\nshell           -- restricted login shell for GIT-only SSH access\r\nshortlog        -- summarize git log output\r\nshow-branch     -- show branches and their commits\r\nshow-index      -- show packed archive index\r\nshow-ref        -- list references in a local repository\r\nshow            -- show various types of objects\r\nsparse-checkout -- initialize and modify the sparse-checkout\r\nstash           -- stash away changes to dirty working directory\r\nstatus          -- show working-tree status\r\nstripspace      -- filter out empty lines\r\nsubmodule       -- initialize, update, or inspect submodules\r\nsubtree         -- split repository into subtrees and merge them\r\nsvn             -- bidirectional operation between a Subversion repository and git\r\nswitch          -- switch branches\r\nsymbolic-ref    -- read and modify symbolic references\r\n\u001b[31m141 ❯ \u001b[0mgit commit -A        \u001b[156C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[31m129 ❯ \u001b[0mgit commit -m -a\u001b[161C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0mOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/hotkeys.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/terminal/\r\n\u001b[8Czshpath.txt\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[31m1 ❯ \u001b[0mls\u001b[177C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0m2023-05-28.md  zshpath.txt\r\n\u001b[34m❯ \u001b[0mrm zshpath.txt \u001b[166C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[34m❯ \u001b[0mls            \u001b[167C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0m2023-05-28.md\r\n\u001b[34m❯ \u001b[0mgit commit -m -a\u001b[165C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0mOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/hotkeys.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/terminal/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[31m1 ❯ \u001b[0mgit commit --help\u001b[162C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0mNo manual entry for git-commit\r\n\u001b[31m129 ❯ \u001b[0mgit add -h        \u001b[159C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[0musage: git add [<options>] [--] <pathspec>...\r\n\r\n    -n, --dry-run         dry run\r\n    -v, --verbose         be verbose\r\n\r\n    -i, --interactive     interactive picking\r\n    -p, --patch           select hunks interactively\r\n    -e, --edit            edit current diff and apply\r\n    -f, --force           allow adding otherwise ignored files\r\n    -u, --update          update tracked files\r\n    --renormalize         renormalize EOL of tracked files (implies -u)\r\n    -N, --intent-to-add   record only the fact that the path will be added later\r\n    -A, --all             add changes from all tracked and untracked files\r\n    --ignore-removal      ignore paths removed in the working tree (same as --no-all)\r\n    --refresh             don't add, only refresh the index\r\n    --ignore-errors       just skip files which cannot be added because of errors\r\n    --ignore-missing      check if - even missing - files are ignored in dry run\r\n    --sparse              allow updating entries outside of the sparse-checkout cone\r\n    --chmod (+|-)x        override the executable bit of the listed files\r\n    --pathspec-from-file <file>\r\n                          read pathspec from file\r\n    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character\r\n\r\n\u001b[31m129 ❯ \u001b[0mgit add -A\u001b[167C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[34m? \u001b[33m!\r\n\u001b[34m❯ \u001b[0mgit -h\u001b[177C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[32m+\r\n\u001b[0musage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\r\n           [--config-env=<name>=<envvar>] <command> [<args>]\r\n\r\nThese are common Git commands used in various situations:\r\n\r\nstart a working area (see also: git help tutorial)\r\n   clone     Clone a repository into a new directory\r\n   init      Create an empty Git repository or reinitialize an existing one\r\n\r\nwork on the current change (see also: git help everyday)\r\n   add       Add file contents to the index\r\n   mv        Move or rename a file, a directory, or a symlink\r\n   restore   Restore working tree files\r\n   rm        Remove files from the working tree and from the index\r\n\r\nexamine the history and state (see also: git help revisions)\r\n   bisect    Use binary search to find the commit that introduced a bug\r\n   diff      Show changes between commits, commit and working tree, etc\r\n   grep      Print lines matching a pattern\r\n   log       Show commit logs\r\n   show      Show various types of objects\r\n   status    Show the working tree status\r\n\r\ngrow, mark and tweak your common history\r\n   branch    List, create, or delete branches\r\n   commit    Record changes to the repository\r\n   merge     Join two or more development histories together\r\n\u001b[34m❯ \u001b[181C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[32m+ \u001b[33m!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[59A\u001b[2C\u001b[0m",
-                    "rows": 60
-                  }
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "78ae6045fbb14c98",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/suna/note/daily-note/",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/nix/store/k52s0fcm71pz8ijh6drj0gh00dj8hy0w-user-environment/bin/zsh",
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {},
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 208,
-                    "data": "\u001b[34m❯ \u001b[0mls\u001b[183C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster\r\n\u001b[0m2023-05-28.md\r\n\u001b[34m❯ \u001b[0mgit commit \u001b[172C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[33m!\r\n\u001b[0mOn branch master\r\nYour branch is up to date with 'diary/master'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[31m1 ❯ \u001b[0mgit add \u001b[173C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[33m!\r\n\u001b[0mNothing specified, nothing added.\r\n\u001b[33mhint: Maybe you wanted to say 'git add .'?\r\nhint: Turn this message off by running\r\nhint: \"git config advice.addEmptyPathspec false\"\r\n\u001b[34m❯ \u001b[0mgit add \u001b[175C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[33m!\u001b[197D\u001b[0m",
-                    "rows": 60
-                  }
-                }
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,12 +74,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5026054382324
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "585304f49dbe8191",
@@ -172,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-05-28.md"
+              }
             }
           }
         ]
@@ -227,11 +154,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "terminal:Open terminal": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "78ae6045fbb14c98",
+  "active": "1bac71c13b0c5925",
   "lastOpenFiles": [
     "2023-05-28.md",
     "ls.md",
