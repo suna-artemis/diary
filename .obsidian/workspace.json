@@ -57,8 +57,47 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "78ae6045fbb14c98",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/suna/note/daily-note/",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/nix/store/k52s0fcm71pz8ijh6drj0gh00dj8hy0w-user-environment/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "linux": true
+                    },
+                    "pythonExecutable": "python",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 208,
+                    "data": "\u001b[34m❯ \u001b[0mls\u001b[183C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster\r\n\u001b[0m2023-05-28.md\r\n\u001b[34m❯ \u001b[0mgit commit \u001b[172C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[33m!\r\n\u001b[0mOn branch master\r\nYour branch is up to date with 'diary/master'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[31m1 ❯ \u001b[0mgit add \u001b[173C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[33m!\r\n\u001b[0mNothing specified, nothing added.\r\n\u001b[33mhint: Maybe you wanted to say 'git add .'?\r\nhint: Turn this message off by running\r\nhint: \"git config advice.addEmptyPathspec false\"\r\n\u001b[34m❯ \u001b[0mgit add \u001b[175C\u001b[35mdaily-note \u001b[0m-> \u001b[35mmaster \u001b[33m!\u001b[197D\u001b[0m",
+                    "rows": 60
+                  }
+                }
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +172,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +188,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +209,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-05-28.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,7 +231,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1bac71c13b0c5925",
+  "active": "78ae6045fbb14c98",
   "lastOpenFiles": [
     "2023-05-28.md",
     "ls.md",
