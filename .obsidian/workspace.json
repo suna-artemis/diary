@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c4fc6187e17617",
+        "id": "7fccd721d3022930",
         "type": "tabs",
         "children": [
           {
-            "id": "1bac71c13b0c5925",
+            "id": "7f8953a91b5b1304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-28.md",
+                "file": "2023-05-31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 252.50043487548828
   },
   "right": {
     "id": "585304f49dbe8191",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-28.md",
+                "file": "2023-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-28.md",
+                "file": "2023-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-28.md"
+                "file": "2023-05-31.md"
               }
             }
           }
@@ -157,9 +156,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1bac71c13b0c5925",
+  "active": "7f8953a91b5b1304",
   "lastOpenFiles": [
+    "2023-05-29.md",
+    "2023-05-31.md",
     "2023-05-28.md",
+    "未命名.canvas",
     "ls.md",
     "zshpath.txt",
     "未命名.md"
