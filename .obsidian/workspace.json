@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "7fccd721d3022930",
+        "id": "20cb36f330ed80eb",
         "type": "tabs",
         "children": [
           {
-            "id": "7f8953a91b5b1304",
+            "id": "c73eef38f1e6e5fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "26e99e2308b1b316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "React App/Redux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "React App/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "React App/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-02.md"
+                "file": "React App/Redux.md"
               }
             }
           }
@@ -156,15 +165,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7f8953a91b5b1304",
+  "active": "d8a9c3dc1ed7b73c",
   "lastOpenFiles": [
+    "React App/Redux.md",
+    "React App",
+    "2023-06-02.md",
     "2023-05-31.md",
     "2023-05-28.md",
     "2023-05-29.md",
-    "2023-06-02.md",
     "未命名.canvas",
     "ls.md",
-    "zshpath.txt",
-    "未命名.md"
+    "zshpath.txt"
   ]
 }
